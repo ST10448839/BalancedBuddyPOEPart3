@@ -50,14 +50,18 @@ Feature 1: Spending Reports (Graphs)
 *	View total spending per category.
 *	Generate graphs showing spending per category over a selected period.
 *	Display minimum and maximum spending goals on graphs.
+
 Feature 2: Budget Progress Dashboard
 *	Visual representation of spending performance.
 *	Shows whether the user is within their monthly spending goals.
+
 Feature 3: Gamification
 *	Reward badges for staying within budget goals.
 *	Achievement badges for consistent expense logging.
+
 Feature 4: Connected to over 15,000 Banks
 The application automatically connects to over 15,000 banks and is displayed with a banner at the top of the application.
+
 Feature 5: Advanced Search Filter
 The second new feature of this application is its powerful transaction search, which utilizes advanced search filters, which includes negative filters, to find a specific transaction fast.
 
